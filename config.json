@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersncrypt",
+        "uuid": 2094980,
+        "checksum": "ae5qq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
